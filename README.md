@@ -2,12 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software Engineering .\
-🌱 &nbsp;I'm on track for learning more about Software Development, Microservice Based Architecture.\
-✍️ &nbsp;In my free time, I Like To Study.\
-✉️ &nbsp;You can shoot me an email at felipecespedes213@gmail.com! I'll try to respond as soon as I can.
-
+💡 &nbsp;I am passionate about exploring new technologies and developing efficient software solutions to solve real-world problems.
+🎓 &nbsp;I'm currently pursuing a degree in Software Engineering.
+🌱 &nbsp;I’m focused on enhancing my skills in Software Development, with a particular interest in Microservice-Based Architectures and scalable systems.
+✍️ &nbsp;In my spare time, I enjoy deepening my knowledge through continuous learning, reading technical books, and experimenting with side projects.
+🚀 &nbsp;I’m also working on improving my expertise in DevOps practices and cloud infrastructure to build more resilient applications.
+📫 &nbsp;Feel free to reach out via email at felipecespedes213@gmail.com. I'll do my best to respond promptly.
+👥 &nbsp;Let's connect and collaborate on interesting projects!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
