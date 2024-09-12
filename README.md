@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am passionate about exploring new technologies and developing efficient software solutions to solve real-world problems.
-🎓 &nbsp; I'm currently pursuing a degree in Software Engineering.
-🌱 &nbsp; I’m focused on enhancing my skills in Software Development, with a particular interest in Microservice-Based Architectures and scalable systems.
-✍️ &nbsp; In my spare time, I enjoy deepening my knowledge through continuous learning, reading technical books, and experimenting with side projects.
-🚀 &nbsp; I’m also working on improving my expertise in DevOps practices and cloud infrastructure to build more resilient applications.
-📫 &nbsp; Feel free to reach out via email at felipecespedes213@gmail.com. I'll do my best to respond promptly.
-👥 &nbsp; Let's connect and collaborate on interesting projects!
+💡 &nbsp;I am passionate about exploring new technologies and developing efficient software solutions to solve real-world problems.  
+🎓 &nbsp;I'm currently pursuing a degree in Software Engineering.  
+🌱 &nbsp;I’m focused on enhancing my skills in Software Development, with a particular interest in Microservice-Based Architectures and scalable systems.  
+✍️ &nbsp;In my spare time, I enjoy deepening my knowledge through continuous learning, reading technical books, and experimenting with side projects.  
+🚀 &nbsp;I’m also working on improving my expertise in DevOps practices and cloud infrastructure to build more resilient applications.  
+📫 &nbsp;Feel free to reach out via email at felipecespedes213@gmail.com. I'll do my best to respond promptly.  
+👥 &nbsp;Let's connect and collaborate on interesting projects!  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
